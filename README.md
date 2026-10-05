@@ -1,4 +1,4 @@
-# SQL Practice — University & Training Centre Databases 🗄️
+# SQL Practice — UNIVERSITY & TRAINING CENTRE DATABASES 🗄️
 
 A collection of **SQL scripts** written to practise and demonstrate core
 database concepts: creating databases and tables, inserting records,
